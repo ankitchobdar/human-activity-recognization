@@ -106,3 +106,6 @@ By using the sensors(Gyroscope and accelerometer) in a smartphone, they have cap
 
 ## Data Size :
 > 27 MB
+
+## Download Link :
+> https://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
